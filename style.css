@@ -1,0 +1,28 @@
+
+div {
+    margin-bottom: 10px;
+  }
+  label,button {
+    display: inline-block;
+    width: 110px;
+    color: black;
+  }
+  input {
+    padding: 5px 10px;
+  }
+.photo-left {
+    float: left;
+    display: inline;
+    width: 33%;
+  }
+  
+  .is-grouped{
+text-align: center;
+  }
+  .main{
+    text-align: center; 
+  }
+
+
+
+  
